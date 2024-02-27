@@ -2,6 +2,7 @@
 Using publicly available datasets, here are some scenarios to apply Power BI learnings and discover insights to their data.
 
 ## Challenge- Customer Churn Data from a Fictitious Telecom Provider
+Source: IBM Cognos Analytics
 - CSV file dataset - [Dataset](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)
 - Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
 - Inspirational insights to discover:
