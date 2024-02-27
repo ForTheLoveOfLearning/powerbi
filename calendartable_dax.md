@@ -1,5 +1,5 @@
 ## Calendar Table in M Language
-### Simple table that creates a table with Columns: Date, Year, Month, Month Number and Quarter
+### Simple expression that creates a table with Columns: Date, Year, Month, Month Number and Quarter
 Calendar = 
  
 	ADDCOLUMNS(
