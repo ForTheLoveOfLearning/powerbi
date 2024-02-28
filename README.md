@@ -31,7 +31,7 @@ Most tutorials here require:
 
 
 ## Power BI Reports
-  - Coming soon
+  - [My Go-to Power BI Reports Resources](https://github.com/ForTheLoveOfLearning/powerbi/blob/main/reports.md)
 
 ## Power BI Dashboards
   - Coming soon
