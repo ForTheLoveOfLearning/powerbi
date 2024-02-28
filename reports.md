@@ -60,5 +60,9 @@
 
    
 ## Tutorials
-
+ - [Create and explore the use of a Decomposition Tree](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-tutorial-decomp-tree)
+   
 ## External tools
+  - PowerPoint
+  - Figma
+  - 
