@@ -28,7 +28,8 @@ Most tutorials here require:
   - Bonus: Publishing and Sharing on Power BI Service
 
   - -------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## Modelling & DAX in Power BI Desktop
+ - [Basics for Modelling & DAX](https://github.com/ForTheLoveOfLearning/powerbi/blob/main/modelling.md)
 
 ## Power BI Reports
   - [My Go-to Power BI Reports Resources](https://github.com/ForTheLoveOfLearning/powerbi/blob/main/reports.md)
