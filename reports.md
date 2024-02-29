@@ -61,8 +61,11 @@
    
 ## Tutorials
  - [Create and explore the use of a Decomposition Tree](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-tutorial-decomp-tree)
+ - [Creating report tooltip pages in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop)
    
 ## External tools
+My personal suggestion of external tools to aid in your report theme and layout design.
   - PowerPoint
-  - Figma
-  - 
+  - [Figma](https://www.nudgebi.com/power-bi-ui-kit)
+  - [Canva](https://blog.enterprisedna.co/power-bi-themes-how-to-create-themes-using-canva/)
+    
