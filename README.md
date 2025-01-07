@@ -39,5 +39,5 @@ Most tutorials here require:
   - Coming soon
 
 ## Commonly Used DAX Samples
-### DAX for Calendar Table.
+### DAX for DATE Tables
 [DAX to create a simple Calendar Table with sample dates](https://github.com/ForTheLoveOfLearning/powerbi/blob/main/calendartable_dax.md)
