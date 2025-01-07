@@ -42,5 +42,4 @@ Most tutorials here require:
 ### DAX for DATE Tables
 [DAX to create a simple Calendar Table with sample dates](https://github.com/ForTheLoveOfLearning/powerbi/blob/main/calendartable_dax.md)
 
-[DAX to create a simple Date Table]
-(https://github.com/ForTheLoveOfLearning/powerbi/blob/main/datetablesample.md)
+[DAX to create a simple Date Table](https://github.com/ForTheLoveOfLearning/powerbi/blob/main/datetablesample.md).
