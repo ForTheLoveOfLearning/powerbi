@@ -33,7 +33,7 @@ Most tutorials here require:
 
 ## Power BI Reports
   - [My Go-to Power BI Reports Resources](https://github.com/ForTheLoveOfLearning/powerbi/blob/main/reports.md)
-  - Coming June 8th - Step by step how to create a report using multiple files from a SharePoint folder and allow for seamless refreshing.
+  - Coming soon- Step by step how to create a report using multiple files from a SharePoint folder and allow for seamless refreshing.
 
 ## Power BI Dashboards
   - Coming soon
